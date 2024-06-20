@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bibliotheksverwaltung/1.0.0": {
+        "runtime": {
+          "Bibliotheksverwaltung.dll": {}
+        },
+        "resources": {
+          "de/Bibliotheksverwaltung.resources.dll": {
+            "locale": "de"
+          },
+          "en/Bibliotheksverwaltung.resources.dll": {
+            "locale": "en"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bibliotheksverwaltung/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
