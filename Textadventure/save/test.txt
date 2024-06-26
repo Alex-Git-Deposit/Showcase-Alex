@@ -1,0 +1,18 @@
+DD|character data|Fighter|Human|1|12|14|12|12|8|10|72|72|11|0|0|False|False|True|
+DD|learnable_spells|Fireball|Healing Touch|
+DD|learnable_special_attacks|Mortal Strike|
+DD|learned_regular_attacks|Punch,1|Strike,1|Shoot,1|Throw,1|Run,1|
+DD|learned_support_attacks|Trap,1|Ensnare,2|Aid,3|Block,4|
+DD|learned_spells|Fireball,1|Healing Touch,1|
+DD|learned_special_attacks|Mortal Strike,1|
+DD|equipment|Cloth, 1|Sword, 5|
+DD|inventory|Map, 1, 1|Coin, 1, 10|Water, 2, 2|Beef, 16, 2|Potion of Healing, 50, 1|
+AA|character data|Fighter|Human|1|12|14|12|12|8|10|72|-126|11|11|0|False|False|True|
+AA|learnable_spells|Fireball|Healing Touch|
+AA|learnable_special_attacks|Mortal Strike|
+AA|learned_regular_attacks|Punch,1|Strike,1|Shoot,1|Throw,1|Run,1|
+AA|learned_support_attacks|Trap,1|Ensnare,2|Aid,3|Block,4|
+AA|learned_spells|Fireball,1|Healing Touch,1|
+AA|learned_special_attacks|Mortal Strike,1|
+AA|equipment|Cloth, 1|Sword, 5|
+AA|inventory|Map, 1, 1|Coin, 1, 10|Water, 2, 2|Beef, 16, 2|Potion of Healing, 50, 1|
