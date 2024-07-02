@@ -1,0 +1,48 @@
+C:\Meins\Coding\C#\playground\Danke\bin\Debug\net8.0-windows\Danke.exe
+C:\Meins\Coding\C#\playground\Danke\bin\Debug\net8.0-windows\Danke.deps.json
+C:\Meins\Coding\C#\playground\Danke\bin\Debug\net8.0-windows\Danke.runtimeconfig.json
+C:\Meins\Coding\C#\playground\Danke\bin\Debug\net8.0-windows\Danke.dll
+C:\Meins\Coding\C#\playground\Danke\bin\Debug\net8.0-windows\Danke.pdb
+C:\Meins\Coding\C#\playground\Danke\obj\Debug\net8.0-windows\Danke.Danke.resources
+C:\Meins\Coding\C#\playground\Danke\obj\Debug\net8.0-windows\Danke.csproj.GenerateResource.cache
+C:\Meins\Coding\C#\playground\Danke\obj\Debug\net8.0-windows\Danke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meins\Coding\C#\playground\Danke\obj\Debug\net8.0-windows\Danke.AssemblyInfoInputs.cache
+C:\Meins\Coding\C#\playground\Danke\obj\Debug\net8.0-windows\Danke.AssemblyInfo.cs
+C:\Meins\Coding\C#\playground\Danke\obj\Debug\net8.0-windows\Danke.csproj.CoreCompileInputs.cache
+C:\Meins\Coding\C#\playground\Danke\obj\Debug\net8.0-windows\Danke.dll
+C:\Meins\Coding\C#\playground\Danke\obj\Debug\net8.0-windows\refint\Danke.dll
+C:\Meins\Coding\C#\playground\Danke\obj\Debug\net8.0-windows\Danke.pdb
+C:\Meins\Coding\C#\playground\Danke\obj\Debug\net8.0-windows\Danke.genruntimeconfig.cache
+C:\Meins\Coding\C#\playground\Danke\obj\Debug\net8.0-windows\ref\Danke.dll
+C:\Users\FP2402389\source\repos\Danke\bin\Debug\net8.0-windows\Danke.exe
+C:\Users\FP2402389\source\repos\Danke\bin\Debug\net8.0-windows\Danke.deps.json
+C:\Users\FP2402389\source\repos\Danke\bin\Debug\net8.0-windows\Danke.runtimeconfig.json
+C:\Users\FP2402389\source\repos\Danke\bin\Debug\net8.0-windows\Danke.dll
+C:\Users\FP2402389\source\repos\Danke\bin\Debug\net8.0-windows\Danke.pdb
+C:\Users\FP2402389\source\repos\Danke\obj\Debug\net8.0-windows\Danke.Danke.resources
+C:\Users\FP2402389\source\repos\Danke\obj\Debug\net8.0-windows\Danke.csproj.GenerateResource.cache
+C:\Users\FP2402389\source\repos\Danke\obj\Debug\net8.0-windows\Danke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FP2402389\source\repos\Danke\obj\Debug\net8.0-windows\Danke.AssemblyInfoInputs.cache
+C:\Users\FP2402389\source\repos\Danke\obj\Debug\net8.0-windows\Danke.AssemblyInfo.cs
+C:\Users\FP2402389\source\repos\Danke\obj\Debug\net8.0-windows\Danke.csproj.CoreCompileInputs.cache
+C:\Users\FP2402389\source\repos\Danke\obj\Debug\net8.0-windows\Danke.dll
+C:\Users\FP2402389\source\repos\Danke\obj\Debug\net8.0-windows\refint\Danke.dll
+C:\Users\FP2402389\source\repos\Danke\obj\Debug\net8.0-windows\Danke.pdb
+C:\Users\FP2402389\source\repos\Danke\obj\Debug\net8.0-windows\Danke.genruntimeconfig.cache
+C:\Users\FP2402389\source\repos\Danke\obj\Debug\net8.0-windows\ref\Danke.dll
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Danke\bin\Debug\net8.0-windows\Danke.exe
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Danke\bin\Debug\net8.0-windows\Danke.deps.json
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Danke\bin\Debug\net8.0-windows\Danke.runtimeconfig.json
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Danke\bin\Debug\net8.0-windows\Danke.dll
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Danke\bin\Debug\net8.0-windows\Danke.pdb
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Danke\obj\Debug\net8.0-windows\Danke.Danke.resources
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Danke\obj\Debug\net8.0-windows\Danke.csproj.GenerateResource.cache
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Danke\obj\Debug\net8.0-windows\Danke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Danke\obj\Debug\net8.0-windows\Danke.AssemblyInfoInputs.cache
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Danke\obj\Debug\net8.0-windows\Danke.AssemblyInfo.cs
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Danke\obj\Debug\net8.0-windows\Danke.csproj.CoreCompileInputs.cache
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Danke\obj\Debug\net8.0-windows\Danke.dll
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Danke\obj\Debug\net8.0-windows\refint\Danke.dll
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Danke\obj\Debug\net8.0-windows\Danke.pdb
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Danke\obj\Debug\net8.0-windows\Danke.genruntimeconfig.cache
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Danke\obj\Debug\net8.0-windows\ref\Danke.dll
