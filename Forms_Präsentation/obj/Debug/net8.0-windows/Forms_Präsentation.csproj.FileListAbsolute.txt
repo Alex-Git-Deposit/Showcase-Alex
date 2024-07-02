@@ -1,0 +1,48 @@
+C:\Meins\Coding\C#\playground\Forms_Präsentation\bin\Debug\net8.0-windows\Forms_Präsentation.exe
+C:\Meins\Coding\C#\playground\Forms_Präsentation\bin\Debug\net8.0-windows\Forms_Präsentation.deps.json
+C:\Meins\Coding\C#\playground\Forms_Präsentation\bin\Debug\net8.0-windows\Forms_Präsentation.runtimeconfig.json
+C:\Meins\Coding\C#\playground\Forms_Präsentation\bin\Debug\net8.0-windows\Forms_Präsentation.dll
+C:\Meins\Coding\C#\playground\Forms_Präsentation\bin\Debug\net8.0-windows\Forms_Präsentation.pdb
+C:\Meins\Coding\C#\playground\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.Form1.resources
+C:\Meins\Coding\C#\playground\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.csproj.GenerateResource.cache
+C:\Meins\Coding\C#\playground\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meins\Coding\C#\playground\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.AssemblyInfoInputs.cache
+C:\Meins\Coding\C#\playground\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.AssemblyInfo.cs
+C:\Meins\Coding\C#\playground\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.csproj.CoreCompileInputs.cache
+C:\Meins\Coding\C#\playground\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.dll
+C:\Meins\Coding\C#\playground\Forms_Präsentation\obj\Debug\net8.0-windows\refint\Forms_Präsentation.dll
+C:\Meins\Coding\C#\playground\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.pdb
+C:\Meins\Coding\C#\playground\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.genruntimeconfig.cache
+C:\Meins\Coding\C#\playground\Forms_Präsentation\obj\Debug\net8.0-windows\ref\Forms_Präsentation.dll
+C:\Users\FP2402389\source\repos\Forms_Präsentation\bin\Debug\net8.0-windows\Forms_Präsentation.exe
+C:\Users\FP2402389\source\repos\Forms_Präsentation\bin\Debug\net8.0-windows\Forms_Präsentation.deps.json
+C:\Users\FP2402389\source\repos\Forms_Präsentation\bin\Debug\net8.0-windows\Forms_Präsentation.runtimeconfig.json
+C:\Users\FP2402389\source\repos\Forms_Präsentation\bin\Debug\net8.0-windows\Forms_Präsentation.dll
+C:\Users\FP2402389\source\repos\Forms_Präsentation\bin\Debug\net8.0-windows\Forms_Präsentation.pdb
+C:\Users\FP2402389\source\repos\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.F_P.resources
+C:\Users\FP2402389\source\repos\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.csproj.GenerateResource.cache
+C:\Users\FP2402389\source\repos\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FP2402389\source\repos\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.AssemblyInfoInputs.cache
+C:\Users\FP2402389\source\repos\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.AssemblyInfo.cs
+C:\Users\FP2402389\source\repos\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.csproj.CoreCompileInputs.cache
+C:\Users\FP2402389\source\repos\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.dll
+C:\Users\FP2402389\source\repos\Forms_Präsentation\obj\Debug\net8.0-windows\refint\Forms_Präsentation.dll
+C:\Users\FP2402389\source\repos\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.pdb
+C:\Users\FP2402389\source\repos\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.genruntimeconfig.cache
+C:\Users\FP2402389\source\repos\Forms_Präsentation\obj\Debug\net8.0-windows\ref\Forms_Präsentation.dll
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Forms_Präsentation\bin\Debug\net8.0-windows\Forms_Präsentation.exe
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Forms_Präsentation\bin\Debug\net8.0-windows\Forms_Präsentation.deps.json
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Forms_Präsentation\bin\Debug\net8.0-windows\Forms_Präsentation.runtimeconfig.json
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Forms_Präsentation\bin\Debug\net8.0-windows\Forms_Präsentation.dll
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Forms_Präsentation\bin\Debug\net8.0-windows\Forms_Präsentation.pdb
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.F_P.resources
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.csproj.GenerateResource.cache
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.AssemblyInfoInputs.cache
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.AssemblyInfo.cs
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.csproj.CoreCompileInputs.cache
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.dll
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Forms_Präsentation\obj\Debug\net8.0-windows\refint\Forms_Präsentation.dll
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.pdb
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Forms_Präsentation\obj\Debug\net8.0-windows\Forms_Präsentation.genruntimeconfig.cache
+C:\Users\FP2402389\Documents\A\Präsentation A Fleig\Forms_Präsentation\obj\Debug\net8.0-windows\ref\Forms_Präsentation.dll
